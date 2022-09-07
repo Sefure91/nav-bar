@@ -1,0 +1,30 @@
+.navbar {
+    background: transparent url(https://bestanimations.com/media/water/1720002162mysterious-dark-water-waves.gif#.Yxj0YepeNtY.link);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-brand {
+    margin: 10px;
+ }
+
+button {
+    margin-right: 10px;
+}
+
+navbar-collapse {
+    display: inline-block;
+}
+
+li {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 3px;
+    margin-left: 5px;
+    opacity: 1;
+}
+
+li:hover {
+    border-bottom: 2px solid white;
+    color: white;
+}
